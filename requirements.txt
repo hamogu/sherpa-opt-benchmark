@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+astropy
+
+pytest-cases
+pytest-harvest
+pytest-profiling
+
+sherpa >= 4.16.1
